@@ -2,7 +2,6 @@
 - 👀 I’m interested in getting a job 
 - 🌱 I’m currently learning react.js
 - 🧑🏽‍💻 I’m looking to collaborate on python projects
-- 🚀 Contact me: https://github.com/minhajul-abidin
   
 - Note:
   This account is just for experimental purpose...
